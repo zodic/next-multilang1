@@ -14,4 +14,4 @@ npm run dev
 http://localhost:3000
 ```
 ## Referrance
-[Go to Teisume](https://teisume.blogspot.com/)
+[Go to Teisume](https://teisume.blogspot.com/2024/03/multi-language-nextjs-without-lib-part1.html)
